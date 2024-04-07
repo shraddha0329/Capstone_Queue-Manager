@@ -2,7 +2,7 @@ Team ID - 202301059 (Leader ID)
 
 Project ID - P3
 
-Team Members :
+Team Members and their contributions :
 
 SHRADDHA RATHOD (202301059) - Documentation of DSA, along with working and figuring out the problem statement and coding it accordingly with the help of Ved.
 
